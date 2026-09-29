@@ -1,4 +1,4 @@
 # Exercicio1-Animais-GQS
-Primeiro Exercício - Tema: Animais | Integrantes: Arthur, Raissa, Tayná [ART] | Professora: Rafaela
+Primeiro Exercício - Tema: Animais | Integrantes: Arthur- 42422076, Raissa- 42414982, Tayná -  [ART] | Professora: Rafaela
 
-Integrantes que contribuíram nesta versão:Arthur
+Integrantes que contribuíram nesta versão:Raissa - 42414982
